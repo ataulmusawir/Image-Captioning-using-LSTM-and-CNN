@@ -39,6 +39,6 @@ This project effectively demonstrates the integration of computer vision and nat
 
 #### **This repository contains:**
 
-**AI_Project.ipynb:** Feature extraction and training.
-**AI_generator.ipynb:** Caption generation for new random images.
-**AI_test.ipynb:** Model testing with existing Dataet and BLEU score evaluation.
+- **AI_Project.ipynb:** Feature extraction and training.
+- **AI_generator.ipynb:** Caption generation for new random images.
+- **AI_test.ipynb:** Model testing with existing Dataet and BLEU score evaluation.
