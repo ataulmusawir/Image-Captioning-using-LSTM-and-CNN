@@ -36,3 +36,9 @@ The goal of this project is to generate captions for input images by combining i
   - **BLEU-2 Score**: 0.373719  
 
 This project effectively demonstrates the integration of computer vision and natural language processing to solve the image captioning problem, achieving competitive BLEU scores.
+
+#### **This repository contains:**
+
+**AI_Project.ipynb:** Feature extraction and training.
+**AI_generator.ipynb:** Caption generation for new random images.
+**AI_test.ipynb:** Model testing with existing Dataet and BLEU score evaluation.
