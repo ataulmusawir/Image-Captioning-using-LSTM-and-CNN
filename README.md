@@ -9,7 +9,7 @@ The goal of this project is to generate captions for input images by combining i
 - Image features extracted using a pre-trained **VGG16** model.  
 
 #### **Environment**  
-- **Platform**: Kaggle  
+- **Platform**: VS Code 
 - **Libraries Used**:  
   - numpy  
   - matplotlib  
